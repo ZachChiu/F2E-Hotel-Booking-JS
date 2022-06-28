@@ -12,4 +12,4 @@
 ### 使用技術：
 
 1. JavaScript 手刻月曆
-2. RESTful API 介接`
+2. RESTful API 介接
